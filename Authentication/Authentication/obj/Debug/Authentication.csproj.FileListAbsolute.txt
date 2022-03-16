@@ -1,0 +1,11 @@
+D:\Metrodata\Tugas MCC\Authentication\Authentication\bin\Debug\Authentication.exe.config
+D:\Metrodata\Tugas MCC\Authentication\Authentication\bin\Debug\Authentication.exe
+D:\Metrodata\Tugas MCC\Authentication\Authentication\bin\Debug\Authentication.pdb
+D:\Metrodata\Tugas MCC\Authentication\Authentication\bin\Debug\BCrypt.Net-Core.dll
+D:\Metrodata\Tugas MCC\Authentication\Authentication\bin\Debug\BCrypt.Net-Core.pdb
+D:\Metrodata\Tugas MCC\Authentication\Authentication\obj\Debug\Authentication.csproj.AssemblyReference.cache
+D:\Metrodata\Tugas MCC\Authentication\Authentication\obj\Debug\Authentication.csproj.SuggestedBindingRedirects.cache
+D:\Metrodata\Tugas MCC\Authentication\Authentication\obj\Debug\Authentication.csproj.CoreCompileInputs.cache
+D:\Metrodata\Tugas MCC\Authentication\Authentication\obj\Debug\Authentication.csproj.CopyComplete
+D:\Metrodata\Tugas MCC\Authentication\Authentication\obj\Debug\Authentication.exe
+D:\Metrodata\Tugas MCC\Authentication\Authentication\obj\Debug\Authentication.pdb
